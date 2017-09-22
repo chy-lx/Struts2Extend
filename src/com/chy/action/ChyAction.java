@@ -1,4 +1,8 @@
 package com.chy.action;
+
+/**
+ * Struts继承
+ */
 public class ChyAction {
     /*添加*/
     public String add(){
